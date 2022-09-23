@@ -42,5 +42,9 @@
   },
   "dependencies": {
     "commander": "^9.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akhmadiy/sjm2.git"
   }
 }
