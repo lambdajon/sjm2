@@ -1,2 +1,2 @@
-# sj2
+# sjm2
 Schedule job manager
